@@ -8,7 +8,7 @@ My Github user page is at:
 https://github.com/ceavilest/
 
 My Github Pages repo can be found at:  
-https://github.com/cavilest/ceavilest.github.io/
+https://github.com/ceavilest/ceavilest.github.io/
 
 And, soon, you can see my customized homepage at:
 
